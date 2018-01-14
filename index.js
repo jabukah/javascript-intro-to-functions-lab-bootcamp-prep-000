@@ -21,7 +21,7 @@ function sayHiToGrandma(string){
 	else if (other validation){
 		return 'other thing'
 	}
-	else if (other validation){
+	else (other validation){
 		return 'other thing'
 	}
 }
